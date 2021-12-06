@@ -1,2 +1,2 @@
 # nasa-apod
-api challenge for NASA APOD
+api frontend for NASA APOD
